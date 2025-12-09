@@ -1,0 +1,94 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(60deg,#0A3A4A,#1E6E84,#0C4F73,#2F4E3E)
+}
+
+h1{
+    font-size: 36px;
+    display: block;
+    background: linear-gradient(90deg,#1c7c7d,#3c6e91);
+    border-radius: 30px;
+    color: #052733;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    font-size: 28px;
+    color: rgb(6, 15, 53);
+    font-style: italic;
+    margin-top: 30px;
+}
+
+h3{
+    color:#0b1f75;
+    font-style: italic;
+}
+
+p{
+    font-size: 18px;
+    color: rgb(43, 4, 70);
+    line-height: 1.6;
+}
+
+.foto{
+    display: block;
+    margin: auto;
+    width: 700px;
+}
+
+.foto1{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.capa{
+    width: 400px;
+    height: 650px;
+    object-fit: cover;
+}
+
+ul{
+  list-style-type:square;
+}
+
+li{
+    color: #1e0136;
+}
+
+a{
+    color: rgb(8, 213, 228);
+    text-decoration: none;
+}
+
+a:hover{
+    background: #fdfdfd42;
+    color: rgb(255, 0, 234);
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin-bottom: 30px;
+    width: 400px;
+}
+th, td {
+    border: 1px solid #000000;
+    padding: 8px;
+}
+
+.tabela th,td {
+        border: 1px solid rgb(6, 13, 17);
+        padding: 6px;
+}
+
+.tabela th{
+    color: rgb(1, 2, 3);
+    text-align: center;
+    text-transform: inherit;
+}
+
+.tabela tr:nth-child(even) {
+    background:#2F4E3E;
+}
+
