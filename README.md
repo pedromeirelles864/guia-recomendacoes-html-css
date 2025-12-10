@@ -4,4 +4,4 @@ Este projeto é uma página criada para recomendar filmes do gênero cinematogr�
 
 ## Tecnologias usadas
 - **HTML5**
-- **CSS3**
+- **CSS**
